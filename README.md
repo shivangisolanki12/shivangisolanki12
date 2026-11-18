@@ -66,11 +66,29 @@
 
 ## 🌐 Connect With Me
 
+
+## 🌐 Connect With Me
+
 <p align="left">
+
 <a href="https://github.com/shivangisolanki12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="linkedin.com/in/shivangi-solanki">
+<img src=linkedin.com/in/shivangi-solankibadge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivangisolanki812@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="tel:6352577697">
+<img src="https://img.shields.io/badge/Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
+
 
 ---
 
