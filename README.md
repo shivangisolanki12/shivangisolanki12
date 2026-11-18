@@ -4,7 +4,7 @@
 - 🤖 Interested in Artificial Intelligence and Data Science
 - 💻 Building real-world projects
 - 🚀 Passionate about learning new technologies
-- 
+ 
 🛠️ Skills
 Python
 C++
